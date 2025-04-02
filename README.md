@@ -9,7 +9,7 @@
 ### Usage
 
 #### Preparation
-
+ 
 1. Apply for a bot on telegram at [BotFather](https://t.me/BotFather) and remember its `TOKEN`:
 
    - You can follow the guidance provided by BotFather.
